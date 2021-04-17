@@ -1,0 +1,6 @@
+A Bluetooth rövid hatótávolságú, adatcseréhez használt, nyílt, vezetéknélküli szabvány. 
+Alkalmazásával számítógépek, mobiltelefonok (telefonkihangosítók) és egyéb készülékek között automatikusan létesíthetünk kis hatótávolságú rádiós kapcsolatot.
+Az 1.2-es verzió 1 Mbps-os, a 2.0-s Bluetooth pedig 3 Mbps-os adatátviteli sebességet tesz lehetővé a világszerte szabadon elérhető 2,4 gigahertzes frekvenciasávban. 
+Európában és az Egyesült Államokban a 2,402 GHz és 2,480 GHz közötti 79 db 1 MHz-es sávban, Japánban a 2,472 és 2,497 GHz közötti 23 db 1 MHz-es sávban.
+Amikor bármelyik két eszköznek kommunikálnia kell egymással, a beszélgetés megkezdése előtt számos pontban meg kell állapodniuk. A megállapodás első pontja fizikai: vezetéken vagy vezeték nélküli jeleken fognak beszélni? Ha vezetéket 
+használnak, hány szükséges - egy, kettő, nyolc vagy 25?
