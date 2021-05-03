@@ -1,9 +1,5 @@
 body{background-image: url(pict/samurai.jpg);background-repeat:no-repeat; background-attachment: fixed; background-position: center; background-size: cover}
 header{width:100%; background-color:rgba(247, 202, 24, 1); position: fixed; top:0px;left: 0px;z-index: 2; text-align:center}
-#igen{text-align:center; color:rgba(196, 171, 30, 0.692);}
-#bruh{width: 33%;margin-top: 5%;background-color: rgba(247, 202, 24, 1);float:left;}
-#talan{width: 33%;margin-top:5%;background-color: rgba(247, 202, 24, 1);float:left;}
-#aham{width: 33%;margin-top:5%;background-color: rgba(247, 202, 24, 1);float:left;}
-.torol{clear:both;}
-.nojsz{clear:both;}
-.omg{width:100%; background-color:rgba(247, 202, 24, 1); text-align:center}
+#yes{background-color:brown;min-height: 90vh;opacity: 0.9}
+.jú{display: flex; justify-content: center; padding: 3px;}
+.haha{background-color:darkgreen; color:yellow}
